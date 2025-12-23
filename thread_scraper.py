@@ -267,7 +267,7 @@ def main():
     # ========================================================================
     
     # The thread to scrape
-    SUBMISSION_ID = "1ptvi51"  # From the URL: /comments/1ptvi51/
+    SUBMISSION_ID = "***"  # From the URL
     
     # Output location
     OUTPUT_PREFIX = "reddit_complete"
